@@ -18,20 +18,18 @@ total runs.
 - Simple CLI interface, no setup required
 
 ## How to Run
-\`\`\`bash
+
 git clone https://github.com/HarshithaVajja/strikeratecalculator.git
 cd strikeratecalculator
 python calculator.py
-\`\`\`
+
 
 ## Example
-\`\`\`
+
 Welcome to the batting strike rate Calculator
 please enter the name of the batsman: Kohli
 please enter the Runs scored by the batsman: 82
 please enter the number of Balls played by the batsman: 53
 The strike rate of Kohli is 154.71
-\`\`\`
 
-## Author
-Harshitha Vajja — [linkedin.com/in/harshithavajja0610](https://www.linkedin.com/in/harshithavajja0610)
+
